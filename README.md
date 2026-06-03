@@ -11,7 +11,7 @@ For this type of functionality, you will typically need a subscription to your c
 ## What you need to begin
 
 - A .docx CV template: i.e. an example of your CV that is formatted to your taste from which new versions can be created
-- A career history file (.txt or .md): I did this by taking all the different types of CVs I've written over time - that is, one example of a CV I've created for each of the different types of roles I've applied for - and dumped all the content in one long document (formatting is not important here). I then asked Claude to read the document, remove exact duplications and combine those that are similar but may contain different details in order to retain as much potentially-relevant detail as possible. Save as .txt or .md . 
+- A career history file (.txt or .md): I did this by taking all the different types of CVs I've written over time - that is, one example of a CV I've created for each of the different types of roles I've applied for - and dumped all the content in one long document (formatting is not important here). I then asked Claude to read the document, remove exact duplications and combine those that are similar but may contain different details in order to retain as much potentially-relevant detail as possible.
 
 ---
 
