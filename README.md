@@ -17,7 +17,7 @@ For this type of functionality, you will typically need a subscription to your c
 
 ## How it works
 
-The workflow is triggered by prefixing a message with `CV:` followed by a job ad (pasted text or a URL). Claude then:
+The workflow is triggered by prefixing a prompt with `CV:` followed by a job ad (pasted text or a URL). Claude then:
 
 1. Analyses the job ad — responsibilities, required skills, seniority, ATS keywords
 2. Selects and prioritises experience from your career history file
