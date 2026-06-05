@@ -75,3 +75,5 @@ Completed CVs are saved to the `CVs/` folder as `.docx` files, named by role and
 - No CV content is fabricated or exaggerated — Claude is explicitly instructed to work only from the career history file
 - The workflow applies a quality checklist before finalising, checking for seniority consistency, outcome focus, ATS coverage and formatting rules
 - `build_cv_docx.py` has an empty content section — Claude copies it to a working directory, fills in the CV content, and runs it from there, leaving the source file unchanged
+- USE AT YOUR OWN RISK: I do not claim responsibility for errors that may appear in generated CVs - you are responsible for proofing content before submitting to recruiters.
+- I do not claim that this is a guaranteed way of securing interviews or employment: I created this to support myself in gaining employment and am sharing this purely to support a community with potential options.
